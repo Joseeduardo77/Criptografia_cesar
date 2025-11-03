@@ -1,5 +1,9 @@
 # 🔐 Cifra de César – Projeto de Criptografia em Python
 
+![Status](https://img.shields.io/badge/status-concluído-green)
+![Linguagem](https://img.shields.io/badge/feito%20com-Python-blue)
+![Licença](https://img.shields.io/badge/licença-MIT-lightgrey)
+
 Este projeto implementa a *Cifra de César* utilizando a linguagem *Python, com o objetivo de demonstrar de forma prática e didática os fundamentos da **criptografia clássica*.  
 A aplicação permite *criptografar e descriptografar mensagens*, explorando conceitos básicos de segurança da informação e manipulação de strings.
 
@@ -20,27 +24,6 @@ A aplicação permite *criptografar e descriptografar mensagens*, explorando con
 |-------------|--------|
 | *Python 3.x* | Linguagem principal do projeto |
 | *VS Code / Terminal* | Ambiente de desenvolvimento e execução |
-
----
-
-## 🚀 Como Executar o Projeto
-
-1. *Clone o repositório*
-   bash
-   git clone https://github.com/seu-usuario/cifra-de-cesar-python.git
-   
-
-2. *Acesse a pasta do projeto*
-   bash
-   cd APS_CRIP
-   
-
-3. *Execute o programa*
-   bash
-   python cesar.py
-   
-
-4. Digite uma mensagem e o valor do deslocamento para criptografar ou descriptografar 🔐
 
 ---
 
@@ -80,5 +63,6 @@ Mensagem descriptografada: SEGURANCA
 *José Eduardo*  
 Estudante de Sistemas de Informação – UNIP Tatuapé  
 💼 Desenvolvedor em formação com foco em *Back-End (Python, C#)* e *Segurança da Informação*  
+
 
 
