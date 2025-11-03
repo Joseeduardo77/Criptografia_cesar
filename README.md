@@ -81,3 +81,4 @@ Mensagem descriptografada: SEGURANCA
 Estudante de Sistemas de Informação – UNIP Tatuapé  
 💼 Desenvolvedor em formação com foco em *Back-End (Python, C#)* e *Segurança da Informação*  
 
+
